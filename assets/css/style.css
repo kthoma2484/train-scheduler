@@ -1,0 +1,21 @@
+.container {
+    background-color: darkred;
+    max-width: 60%;
+}
+
+.row {
+    background-color: black;
+    padding: 30px;
+    margin: 20px;
+}
+
+td,
+th,
+form {
+    color: white;
+}
+
+button {
+    background-color: darkred;
+    color: white;
+}
